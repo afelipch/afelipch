@@ -1,5 +1,18 @@
-### Hi there 👋
+# Felipe Chávez
 
+Hello World! 🖖🏻 I'm Felipe, frontend developper and translator from English, French, and Portuguese into Spanish. 
+
+## 💬 Ask me about:
+
+🌱 Technical Skills 
+
+HTML • CSS • JavaScript ES6+ • React • Bootstrap • SCSS • Stylus • Less • Git • Scrum
+
+
+### 🤝 Reach me! 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipechavezproftranslator/)
+[![GitHub](	https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/afelipch)
 <!--
 **afelipch/afelipch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
